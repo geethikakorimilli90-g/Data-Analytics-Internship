@@ -1,4 +1,4 @@
- Data Analytics Track — Task 12: Missing Value Identification
+## Task 12: Missing Value Identification
 
 ## 📌 Project Overview
 In this project, I executed a data quality and missing-value audit on a structured dataset (`cleaned_titanic`) using **Python, Pandas, and Google Colab**. The goal was to programmatically inspect the dataset to identify hidden data gaps, summarize null distributions, and document best practices for handling missing observations.
